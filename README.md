@@ -117,10 +117,3 @@ public function gallery() {
 2. Masukkan username/password
 3. Kelola karya di /pengelolaan
 ```
-
-```
-
-Cukup copy seluruh skrip di atas, lalu jalankan di terminal. File `README.md` akan langsung terbentuk dengan format Markdown yang bersih dan tanpa emoji.
-
-Butuh bantuan untuk membuat `README` versi bahasa Inggris juga?
-```
